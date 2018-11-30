@@ -21,16 +21,16 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./output_images/chessboard_calibration.png "Chessboard Calibration"
-[image2]: ./output_images/02-undistort_chessboard.png "Undistorted Chessboard"
-[image3]: ./output_images/road-transformed.png "Road Transformed"
-[image4]: ./output_images/binary_combo_example.png "Binary Example"
-[image5]: ./output_images/sliding_window_polyfit.png "Sliding Window Polyfit"
-[image6]: ./output_images/sliding_window_histogram.png "Sliding Window Histogram"
-[image7]: ./output_images/polyfit_from_previous_fit.png "Polyfit Using Previous Fit"
-[image6]: ./output_images/color_fit_lines.jpg "Fit Visual"
-[image7]: ./output_images/example_output.jpg "Output"
-[image8]: ./output_images/draw_lane.png "Data shown onto Original Image"
+[image1]: ./output_images/chessboard_calibration.PNG "Chessboard Calibration"
+[image2]: ./output_images/02-undistort_chessboard.PNG "Undistorted Chessboard"
+[image3]: ./output_images/road-transformed.PNG "Road Transformed"
+[image4]: ./output_images/binary_combo_example.PNG "Binary Example"
+[image5]: ./output_images/sliding_window_polyfit.PNG "Sliding Window Polyfit"
+[image6]: ./output_images/sliding_window_histogram.PNG "Sliding Window Histogram"
+[image7]: ./output_images/polyfit_from_previous_fit.PNG "Polyfit Using Previous Fit"
+[image6]: ./output_images/color_fit_lines.PNG "Fit Visual"
+[image7]: ./output_images/example_output.PNG "Output"
+[image8]: ./output_images/draw_lane.PNG "Data shown onto Original Image"
 [video1]: ./project_video_output.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
