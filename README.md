@@ -22,7 +22,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./output_images/chessboard_calibration.PNG "Chessboard Calibration"
-[image2]: ./output_images/02-undistort_chessboard.PNG "Undistorted Chessboard"
+[image2]: ./output_images/undistort_chessboard.PNG "Undistorted Chessboard"
 [image3]: ./output_images/road-transformed.PNG "Road Transformed"
 [image4]: ./output_images/binary_combo_example.PNG "Binary Example"
 [image5]: ./output_images/sliding_window_polyfit.PNG "Sliding Window Polyfit"
